@@ -24,7 +24,7 @@ Requires:
 >The function and image files should be in the same folder in Matlab as the code you are running.
 
 ## Authors
-Christian Knuth ➡️  
+Christian Knuth ➡️ @KnuthC
 
 Laura Reis Neves ➡️ @laurarneves
 
