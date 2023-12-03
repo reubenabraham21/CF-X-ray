@@ -19,7 +19,7 @@ The data source used for this project is [Medscape](https://emedicine.medscape.c
 5. Check the percentage of lung area affected by mucus to note down the disease's progression!
 
 >[!IMPORTANT]
->The function and image files should be in the same folder in Matlab as the code you are running.
+>The code and image files should be in the same folder in Matlab as the code you are running.
 
 Requires:
 
