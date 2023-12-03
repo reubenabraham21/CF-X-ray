@@ -18,16 +18,16 @@ Requires:
 
 [MATLAB](https://www.mathworks.com/products/matlab.html)
 
- [Contribution guidelines for this project](docs/Final project images.zip)
+ [Contribution guidelines for this project](Comp apps project/Final project images.zip)
  
 >[!IMPORTANT]
 >The function and image files should be in the same folder in Matlab as the code you are running.
 
 ## Authors
-Christian Knuth
+Christian Knuth ➡️  
 
-Laura Reis Neves
+Laura Reis Neves ➡️ @laurarneves
 
-Reuben Abraham
+Reuben Abraham ➡️ @reubenabraham21
 ## References
 
